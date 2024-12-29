@@ -12,7 +12,7 @@ This repo is an attempt to centralize my collection of learning resources, tools
   - [Udemy](https://www.udemy.com/)
   - [Professor Messer](https://www.professormesser.com/)
   - [David Bombal](https://courses.davidbombal.com/courses/)
-  - 
+  - [edX](https://www.edx.org/)
 
 
 #### Coding / Programming:
@@ -30,3 +30,10 @@ This repo is an attempt to centralize my collection of learning resources, tools
 - [itsFOSS - Free Linux Training Courses](https://itsfoss.com/free-linux-training-courses/)
 - [Linux Handbook](https://linuxhandbook.com/)
 - [Linux-Guide (repo)](https://github.com/mikeroyal/Linux-Guide)
+- [The Bash Guide](https://guide.bash.academy/)
+- [explainshell](https://explainshell.com/)
+- [Linux Man Pages](https://linux.die.net/man/)
+
+
+
+### Social Media
