@@ -18,8 +18,9 @@ This repo is an attempt to centralize my collection of learning resources, tools
 
 #### Coding / Programming:
 - [Free Code Camp](https://www.freecodecamp.org/)
-  
+- [HackInScience - Python Exercises](https://www.hackinscience.org/exercises/)  
 - [devchallenges.io](https://devchallenges.io/learn)
+- [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
 
 
 #### Linux:
