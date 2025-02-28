@@ -37,5 +37,13 @@ This repo is an attempt to centralize my collection of learning resources, tools
 - [Linux Man Pages](https://linux.die.net/man/)
 
 
+## Infosec Blogs
+- [/dev/random](https://blog.rootshell.be/)
+- [OxPat](https://0xpat.github.io/)
+- [003Random](https://003random.com/about/)
+- [0DAY](https://0day.work/)
+- [0DAY IN {REA_TEAM}](https://kienmanowar.wordpress.com/)
+- [0xbb](https://bierbaumer.net/posts/)
+
 
 ### Social Media
