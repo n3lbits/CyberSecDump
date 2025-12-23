@@ -11,7 +11,11 @@ Overall, the NCL goal is to prepare students for a real-life cybersecurity caree
 
 Please see the following scouting reports for the individual and team games, respectively:
 - [Individual Report](https://cyberskyline.com/report/REQP3UJJ2FHR)
+
+<img width="864" height="279" alt="image" src="https://github.com/user-attachments/assets/db554639-ab36-44c9-b9d9-eaa56e0df6ec" />
+
 - [Team Report](https://cyberskyline.com/report/FL4AJPT214KF)
+<img width="864" height="279" alt="image" src="https://github.com/user-attachments/assets/679c890b-c9cc-4638-b828-e0f942236db9" />
 
 
 ## Learning Content
