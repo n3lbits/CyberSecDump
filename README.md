@@ -1,7 +1,7 @@
-# InfoSec Resource Dump
-A personal and ongoing collection of a variety of cybersecurity-related resources and tools (free and paid), including those for learning and studying, research, websites, blogs, repos, and anything else I find interesting.
+# InfoSec Activities and Resource Dump
+A personal and ongoing collection of a variety of cybersecurity-related resources and tools (free and paid), including CTF and Challenge activities, resources for learning and studying, research, websites, blogs, repos, and anything else I find interesting.
 
-This repo is an attempt to centralize my collection of learning resources, tools, services, projects, etc., in a variety of categories that would serve anyone interested in cybersecurity, or starting or transitioning to a cyber-related career. My journey into cybersecurity began with curiosity and a drive to learn. Starting out, I found that many "beginner" focused learning resources and tools assumed some pre-obtained knowledge, and so I had to go about finding ways to learn things in order to keep going and not lose momentum. I hope to use this repo as a kitchen-sink for resources at all levels. As I work out the organization I will continue to collect resources here.
+This repo serves to centralize my collection of CTF and challenge activities, learning resources, tools, services, projects, etc., in a variety of categories. I hope to use this repo as a kitchen-sink for resources at all levels. As I work out the organization I will continue to collect and add things here.
 
 ## Content
 
