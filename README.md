@@ -9,6 +9,11 @@ This year I had the opportunity to participate in the NCL team competition as pa
 
 Overall, the NCL goal is to prepare students for a real-life cybersecurity career, presenting challenges that may be new to many, and processes that man need to be worked out in the heat of the competition. I appreciated that I was presented with problems I've never encountered, yet in some cases instinct kicked in, and I was able to progress through a challenge. have not been trained to solve. Every person has a unique skill set, some are more broad, some more focused. Its absolutely impossible to learn everything, but competing in a 'high-stakes' team enviornment is crucial. It gives the real-world experience of not wanting to let your team down, at the same time, encourages humility and asking your team for help. Overall, this was a great experience and I couldn't have asked for a better group.
 
+Please see the following scouting reports for the individual and team games, respectively:
+- [Individual Report](https://cyberskyline.com/report/REQP3UJJ2FHR)
+- [Team Report](https://cyberskyline.com/report/FL4AJPT214KF)
+
+
 ## Learning Content
 
 ### Foundational
