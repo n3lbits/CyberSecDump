@@ -23,6 +23,7 @@ Please see the following scouting reports for the individual and team games, res
 ### Foundational
 
 #### General:
+  - [SANS](https://www.sans.org)
   - [Cyberacademy](https://cybercademy.org/get-started/)
   - [Udemy](https://www.udemy.com/)
   - [Professor Messer](https://www.professormesser.com/)
@@ -61,4 +62,7 @@ Please see the following scouting reports for the individual and team games, res
 - [0xbb](https://bierbaumer.net/posts/)
 
 
-### Social Media
+### Focused
+
+#### Blue
+
